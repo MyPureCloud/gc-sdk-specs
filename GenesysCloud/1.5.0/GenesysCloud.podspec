@@ -30,7 +30,6 @@ Pod::Spec.new do |s|
     sp.dependency 'GenesysCloudAccessibility', '1.5.0'
     sp.dependency 'GenesysCloudBot', '1.5.0'
     sp.dependency 'GenesysCloudBold', '1.5.0'
-    sp.dependency 'GenesysCloudCore', '1.5.0'
     sp.dependency 'GenesysCloudMessenger', '1.5.0'
     sp.pod_target_xcconfig = { 'CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF' => 'NO'}
   end
