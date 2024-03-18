@@ -26,8 +26,8 @@ GenesysCloudMessenger is an SDK that used as chat handler for bold API.
   s.pod_target_xcconfig = { 'CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF' => 'NO' }
   s.libraries = ['icucore']
   # Private Pod frameworks dependency
-  s.dependency 'GenesysCloudCore', '1.7.1'
-  s.dependency 'GenesysCloudMessengerTransport', '2.5.3'
+  s.dependency 'GenesysCloudCore',
+  s.dependency 'GenesysCloudMessengerTransport', '2.5.4'
   s.swift_version = '5.0'
 
 end
