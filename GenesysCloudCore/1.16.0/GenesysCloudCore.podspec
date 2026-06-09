@@ -16,7 +16,7 @@ GenesysCloudCore SDK
   s.homepage         = 'https://docs.genesys.com/Documentation'
   s.license          = 'Apache License, Version 2.0'
   s.author           = 'Genesys Cloud Services, Inc.'
-  s.source           = { :http => 'https://genesysdx.jfrog.io/artifactory/genesys-cloud-ios.prod/GenesysCloudCore/GenesysCloudCore_version_t1.16.0_commit_5f4335ed2eb8bb5f7ff2caabc4da9d2d955236b3.zip' }
+  s.source           = { :http => 'https://github.com/MyPureCloud/mobile-messenger-ios-sdk/releases/download/v1.16.0/GenesysCloudCore.zip' }
   s.vendored_frameworks = 'GenesysCloudCore.xcframework'
 
   s.requires_arc = true
